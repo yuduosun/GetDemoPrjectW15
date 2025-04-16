@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("This is Git demo project");
 		System.out.println("created by team leader");
+		System.out.println("By Sehjal");
 	}
 
 }
